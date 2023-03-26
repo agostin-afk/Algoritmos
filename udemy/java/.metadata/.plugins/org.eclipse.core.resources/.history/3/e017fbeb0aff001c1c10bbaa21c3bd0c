@@ -1,0 +1,13 @@
+package dados;
+import javax.swing.JOptionPane;
+public class tipos_dados {
+
+	public static void main(String[] args) {
+		float salario;
+		int idade;
+		String nome;
+		nome = JOptionPane.showInputDialog("Digite o seu nome: ");
+
+	}
+
+}

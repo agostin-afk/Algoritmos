@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1657171382 source:c:\users\samsung\desktop\tipos_dados\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1657171762 source:c:\users\samsung\desktop\udemy\c\tipos_dados\main.c
+	<stdio.h>
+	<stdlib.h>
+

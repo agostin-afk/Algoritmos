@@ -1,0 +1,11 @@
+[Project]
+FileName=C:\Users\Samsung\Desktop\Project 2.dp
+Name=Project 2
+MainUnit=Untitled1
+UnitCount=1
+ResFiles=C:\Users\Samsung\Desktop\rsrc.rc
+NoConsole=1
+IsDll=0
+Icon=C:\Dev-Pas\bin\Mainicon.ico
+[Unit1]
+FileName=Untitled1

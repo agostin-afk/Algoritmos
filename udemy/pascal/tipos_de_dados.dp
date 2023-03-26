@@ -1,0 +1,13 @@
+[Project]
+FileName=C:\Users\Samsung\Desktop\udemy\pascal\tipos_de_dados.dp
+Name=tipos_de_dados
+MainUnit=Untitled1
+UnitCount=1
+ResFiles=C:\Users\Samsung\Desktop\udemy\pascal\rsrc.rc
+NoConsole=1
+IsDll=0
+Icon=C:\Dev-Pas\bin\Mainicon.ico
+[Unit1]
+FileName=Untitled1
+[Unit0]
+FileName=C:\Users\Samsung\Desktop\udemy\pascal\ex_dados.pas

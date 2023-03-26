@@ -1,0 +1,18 @@
+package dados;
+
+public class tipos_dados {
+
+	public static void main(String[] args) {
+		float salario;
+		int idade;
+		String nome;
+		salario = 2000;
+		idade= 18;
+		nome= "Agostinho Ferreira";
+		System.out.println("O nome: "+nome);
+		System.out.println("Sua idade: "+idade);
+		System.out.println("Seu salario: "+salario);
+
+	}
+
+}

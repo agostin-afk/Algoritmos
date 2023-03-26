@@ -1,0 +1,12 @@
+[Project]
+FileName=C:\Users\Samsung\Desktop\pascal\medialer.dp
+Name=medialer
+MainUnit=C:\Users\Samsung\Desktop\pascal\media_ler.pas
+UnitCount=1
+ResFiles=C:\Users\Samsung\Desktop\pascal\rsrc.rc
+NoConsole=0
+IsDll=0
+Icon=C:\Dev-Pas\bin\Mainicon.ico
+[Unit1]
+FileName=C:\Users\Samsung\Desktop\pascal\media_ler.pas
+FileTime=1424269039

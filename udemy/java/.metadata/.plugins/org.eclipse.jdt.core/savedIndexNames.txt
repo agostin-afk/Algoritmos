@@ -1,0 +1,5 @@
+INDEX VERSION 1.131+C:\Users\Samsung\Desktop\udemy\java\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+1222639598.index
+4120781905.index
+4018154420.index

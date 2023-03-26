@@ -1,0 +1,12 @@
+[Project]
+FileName=C:\Users\Samsung\Desktop\udemy\pascal\projetos\troca_var.dp
+Name=troca_var
+MainUnit=C:\Users\Samsung\Desktop\udemy\pascal\projetos\troca_variavel.pas
+UnitCount=1
+ResFiles=C:\Users\Samsung\Desktop\udemy\pascal\projetos\rsrc.rc
+NoConsole=0
+IsDll=0
+Icon=C:\Dev-Pas\bin\Mainicon.ico
+[Unit1]
+FileName=C:\Users\Samsung\Desktop\udemy\pascal\projetos\troca_variavel.pas
+FileTime=1424581928

@@ -1,0 +1,12 @@
+[Project]
+FileName=C:\Users\Samsung\Desktop\hello_world.dp
+Name=hello_world
+MainUnit=C:\Users\Samsung\Desktop\teste.pas
+UnitCount=1
+ResFiles=C:\Users\Samsung\Desktop\rsrc.rc
+NoConsole=0
+IsDll=0
+Icon=C:\Dev-Pas\bin\Mainicon.ico
+[Unit1]
+FileName=C:\Users\Samsung\Desktop\teste.pas
+FileTime=1424262779

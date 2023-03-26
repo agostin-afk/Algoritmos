@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1658793534 source:c:\users\samsung\desktop\fibonacci\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,15 @@
+package ler_media;
+import javax.swing.JOptionPane;
+public class ler_media {
+
+	public static void main(String[] args) {
+
+		float nota1, nota2, media;
+		nota1 = Float.parseFloat(JOptionPane.showInputDialog("Digite a primeira nota: "));
+		nota2 = Float.parseFloat(JOptionPane.showInputDialog("Digite a segunda nota: "));
+		media = (nota1 + nota2)/2;
+		System.out.print("a media foi: "+media);
+		JOptionPane.showMessageDialog(null, "A media é: " + media);
+	}
+
+}
