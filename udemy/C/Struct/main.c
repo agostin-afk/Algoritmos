@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 struct cadastro{
-
     char nome[30];
     int idade;
     float salario;
