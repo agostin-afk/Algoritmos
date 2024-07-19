@@ -1,6 +1,5 @@
-
 lista=[7, 9, 3, 1, 0, 4]
-def selection_sort(lista):
+def selection_sort(lista: list[int]) -> None:
     tamanho_lista = len(lista)
     for j in range(tamanho_lista-1):
         min_value = j
