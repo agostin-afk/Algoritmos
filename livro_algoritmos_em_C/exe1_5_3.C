@@ -1,11 +1,15 @@
 #include <stdio.h>
 
 int main(){
-    float combustivel = 0.0;
-    float distancia = 0.0;
-    printf("informe uma distancia(em km) e quanto de gasolina(em L) precisa: ");
-    scanf("%f %f", &distancia, &combustivel);
-    printf("seu consumo medio eh: %.2fKm/L", distancia/combustivel);
+    float first_number = 0;
+    float second_number = 0;
+    printf("enter the numbers for calculation: ");
+    scanf("%f %f", &first_number, &second_number);
+    float addiction = first_number + second_number;
+    float subtraction = first_number - second_number;
+    float division = first_number / second_number;
+    float multiplication = first_number * second_number;
+    printf("Addiction: %.2f\nSubtraction: %.2f\nDivision: %.2f\nMultiplication: %.2f",addiction, subtraction, division, multiplication);
     return 0;
 
 }
