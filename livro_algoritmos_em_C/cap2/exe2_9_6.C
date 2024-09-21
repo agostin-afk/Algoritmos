@@ -10,6 +10,6 @@ int main(){
     printf("Enter value in reais: "); 
     scanf("%f", &reais_value);
     dollar_value = reais_value/dollar_quote;
-    printf("The value in dollars: %2.f", dollar_value);
+    printf("The value in dollars: %.2f", dollar_value);
     return 0;
 }

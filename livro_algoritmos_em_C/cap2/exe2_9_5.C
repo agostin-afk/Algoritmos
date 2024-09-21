@@ -7,6 +7,6 @@ int main(){
     scanf("%f %f", &first_measure, &second_measure);
 
     float area = first_measure * second_measure;
-    printf("The room area: %2.fm2", area);
+    printf("The room area: %.2fm2", area);
 
 }
